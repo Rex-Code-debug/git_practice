@@ -1,0 +1,14 @@
+# Python Junk
+*__pycache__/
+*.py[cod]
+
+# Virtual Environments (Heavy folders)
+*venv/
+*env/
+
+# Security (Secrets)
+*.env
+*.DS_Store
+
+# Logs
+*.log
